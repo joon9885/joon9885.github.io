@@ -9,8 +9,8 @@
   description: Discrimination of vowels from human brain waves without speaking out loud. Classification done based on convolutional neural network whose learning data are time-frequency representation of filtered electroencephalogram(EEG) signals. (Advisor - Prof. Sung-Phil Kim)
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Open Lecture for Freshmen
+  role: Lecturer
+  duration: 2017 &mdash; 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Voluntary 5 hour free lecture for freshmen (General Physics I/II) to help them cope with examinations. 
